@@ -117,7 +117,7 @@ else if(
 	clickOperation(e.key);
 }else if (e.key === "*"){
 	clickOperation('X');
-}else if( e.key =='enter' || e.key === "=")
+}else if( e.key =='Enter' || e.key === "=")
 {
 
 	clickEqual();
